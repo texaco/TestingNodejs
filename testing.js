@@ -51,3 +51,24 @@ operator2 = "2";
 result = operator1 + operator2;
 console.log(result);
 
+// Arrays
+
+var array = ["val1", "val2", 100, [1, "val3"], false];
+console.log(array);
+
+array[1] = "val - modified";
+console.log(array);
+console.log(array.length);
+console.log(array[array.length-1]);
+
+var array2 = ["val3", "val4"];
+
+console.log(array.concat(array2));
+console.log(array);
+
+console.log(array.pop());
+
+console.log(array.push("val5"));
+
+console.log(array.reverse());
+
