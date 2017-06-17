@@ -21,3 +21,9 @@ console.log(num1 + num2);
 console.log(num1 / num2);
 
 // Booleans
+
+var booleanValue = false;
+console.log(booleanValue);
+
+booleanValue = !booleanValue;
+console.log(booleanValue);
