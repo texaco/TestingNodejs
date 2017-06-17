@@ -72,3 +72,7 @@ console.log(array.push("val5"));
 
 console.log(array.reverse());
 
+
+true ? function(){
+        console.log('terniary as true');    
+    }:console.log('terniary as false');
