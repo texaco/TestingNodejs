@@ -27,3 +27,27 @@ console.log(booleanValue);
 
 booleanValue = !booleanValue;
 console.log(booleanValue);
+
+// Operators
+
+var operator1 = 1;
+var operator2 = 2;
+
+var result = operator1 + operator2;
+console.log(result);
+
+result = operator1 - operator2;
+console.log(result);
+
+result = operator1 / operator2;
+console.log(result);
+
+result = operator1 * operator2;
+console.log(result);
+
+operator1 = "1";
+operator2 = "2";
+
+result = operator1 + operator2;
+console.log(result);
+
