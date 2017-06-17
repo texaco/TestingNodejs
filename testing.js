@@ -75,4 +75,4 @@ console.log(array.reverse());
 
 true ? function(){
         console.log('terniary as true');    
-    }:console.log('terniary as false');
+    }() : console.log('terniary as false');
