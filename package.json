@@ -1,0 +1,23 @@
+{
+  "name": "testingnodejs",
+  "version": "1.0.0",
+  "description": "Testing node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/texaco/TestingNodejs.git"
+  },
+  "keywords": [
+    "testing",
+    "helloworld"
+  ],
+  "author": "Manolo Texaco",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/texaco/TestingNodejs/issues"
+  },
+  "homepage": "https://github.com/texaco/TestingNodejs#readme"
+}
